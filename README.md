@@ -4,3 +4,10 @@ Licensed under the Apache License, version 2.0. See LICENSE for details.
 # mobility-lca-tool
 Web interface which allows to estimate total annual mobility related GHG emissions based on the distances travelled by various modes.  
 
+Based on the original studies by: 
+
+Chester, Mikhail V (2008)
+https://escholarship.org/uc/item/7n29n303
+
+Amatuni, L (2008)
+http://hdl.handle.net/1807/95581
