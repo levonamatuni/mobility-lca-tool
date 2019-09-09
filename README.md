@@ -11,3 +11,5 @@ https://escholarship.org/uc/item/7n29n303
 
 Amatuni, L (2008)
 http://hdl.handle.net/1807/95581
+
+[![DOI](https://zenodo.org/badge/206070811.svg)](https://zenodo.org/badge/latestdoi/206070811)
